@@ -76,8 +76,4 @@ jupyter notebook notebooks/aircraft_damage_classification.ipynb
 
 ---
 
-## Resume Bullets
 
-- Built a two-phase transfer learning pipeline (EfficientNetB0 fine-tuning) for automated aircraft structural damage classification, achieving ~91% F1-score on a small imbalanced dataset through targeted augmentation and LR scheduling.
-- Designed a modular ML evaluation framework with confusion matrix analysis, per-class precision/recall/F1, and high-confidence error visualization to surface model failure modes in a safety-critical aviation context.
-- Integrated a BLIP vision-language model to generate natural-language damage descriptions from inspection images, combining classification and captioning into a unified pipeline for MRO workflows.
